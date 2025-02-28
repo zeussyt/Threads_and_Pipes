@@ -1,6 +1,6 @@
 # Threads_and_Pipes
 Project 1
-/***************THIS PROGRAM WAS CREATED IN C************/
+/***************THIS PROGRAM WAS CREATED IN C*************/
 
 STEP 1: In order to run this file, you must have GCC or an equivalent compiler installed
 
